@@ -1,0 +1,12 @@
+The Power BI project analyzed patient wait times across different specialties and case types (Outpatient, Inpatient, Day Case) from January 2018 to March 2021. The analysis aimed to provide insights into the trends, challenges, and opportunities for optimizing patient flow and service delivery within a healthcare system. Key metrics such as average and median waiting times, total waitlist numbers, and case types were visualized to offer a comprehensive understanding of patient waitlist dynamics.
+
+Key Findings:
+Total Waitlist Trends: The total waitlist increased from 640K to 709K over the last month of the analysis period, indicating a 10% rise year-over-year. This suggests a growing pressure on healthcare resources.
+Age Profile and Wait Times: The analysis revealed that patients aged 0-15 had the highest percentage of waits exceeding 18 months, while the 65+ age group had a significant number of short-term waits (0-3 months), reflecting prioritization for the elderly.
+Case Type Distribution: Outpatient cases constituted 72% of the overall patient load, followed by Inpatient (16.69%) and Day Case (10.62%). This indicates a higher demand for outpatient services.
+Monthly Trends: Outpatient numbers showed a continuous rise, peaking at 62K in January 2021, while Inpatient numbers remained more stable, suggesting an increased focus on non-critical care during this time.
+Specialty Pressure Points: Specialties like Accident & Emergency, Paediatric Cardiology, and Paediatric Orthopaedics faced the highest patient loads, highlighting areas that require additional resources and support.
+Conclusion:
+The analysis underscores the critical need for strategic planning and resource allocation in healthcare. The rise in total patient waitlists and the disproportionate burden on outpatient services indicate the importance of expanding outpatient capacity to reduce backlog. Additionally, targeted investments in high-pressure specialties such as Paediatric care and Emergency services can improve patient flow and outcomes. Addressing long waiting times for vulnerable age groups, particularly children and the elderly, is essential for enhancing overall patient satisfaction and reducing strain on healthcare facilities.
+
+By leveraging data-driven insights, healthcare providers can better manage waiting lists, optimize resource distribution, and ensure timely care delivery, ultimately contributing to more efficient and patient-centric service delivery.
